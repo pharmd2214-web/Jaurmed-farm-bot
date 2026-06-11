@@ -1,2 +1,2 @@
-# Jaurmed-farm-bot
+# Jasurmed-farm-bot
 Dorixona uchun
